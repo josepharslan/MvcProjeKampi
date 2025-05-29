@@ -29,4 +29,26 @@ gibi yapılar örneklenmiştir.
 
 ## 📸 Ekran Görüntüleri
 
+# Yazar Paneli
 ![localhost_44361_Login_WriterLogin](https://github.com/user-attachments/assets/573e1da3-0120-4d01-b8b7-e35aad204a6a)
+
+![localhost_44361_WriterPanel_AllHeading](https://github.com/user-attachments/assets/ab32cc99-12d8-45de-8bb9-a54953e85229)
+
+![localhost_44361_WriterPanelMessage_Inbox](https://github.com/user-attachments/assets/f376fcd5-99c2-4199-96a0-fb4592d94a85)
+
+![localhost_44361_WriterPanelMessage_Sendbox](https://github.com/user-attachments/assets/7c6083d2-94a7-44e0-a224-fe5d45521d05)
+
+![localhost_44361_Content_GetAll](https://github.com/user-attachments/assets/a3cf45b2-4da0-4802-be4b-8d1401c98813)
+
+![localhost_44361_Default_Headings](https://github.com/user-attachments/assets/a730655d-4004-4ee7-b61a-316480318ae4)
+
+# Admin Paneli 
+
+![localhost_44361_Login_Index](https://github.com/user-attachments/assets/f7b354f3-d0d1-45c7-a523-5faf4817d195)
+
+![localhost_44361_Authorization_Index](https://github.com/user-attachments/assets/0ef66e31-729c-471d-9455-7fdbe8130fe2)
+
+![localhost_44361_Writer_Index](https://github.com/user-attachments/assets/8b46b599-3aff-4184-bb6e-9bd9de97015f)
+
+![localhost_44361_Heading_HeadingReport](https://github.com/user-attachments/assets/7147c391-986d-449c-a8cc-78f6a005fd5f)
+
