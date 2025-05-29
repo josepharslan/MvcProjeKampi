@@ -2079,16 +2079,24 @@
     <Content Include="AdminLTE-3.0.4\web\images\g8.jpg" />
     <Content Include="AdminLTE-3.0.4\web\images\g9.jpg" />
     <Content Include="AdminLTE-3.0.4\web\images\loader.gif" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Authorization_Index.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Authorization_Index.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Content_GetAll.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Content_GetAll_.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Default_Headings.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Default_Headings_6.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Heading_HeadingReport.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Heading_HeadingReport.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Heading_Index.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Login_Index.png" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Login_WriterLogin.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_WriterPanelMessage_Inbox.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_WriterPanelMessage_Inbox_.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_WriterPanelMessage_Sendbox.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_WriterPanelMessage_Sendbox_.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_WriterPanel_AllHeading.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_WriterPanel_AllHeading_p=1.png" />
-    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Writer_Index.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\localhost_44361_Writer_Index.jpeg" />
     <Content Include="AdminLTE-3.0.4\web\images\move_up.png" />
     <Content Include="AdminLTE-3.0.4\web\images\next.png" />
     <Content Include="AdminLTE-3.0.4\web\images\prev.png" />
