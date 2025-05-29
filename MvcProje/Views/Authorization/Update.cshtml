@@ -1,0 +1,31 @@
+﻿@model EntityLayer.Concrete.Admin
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni Kategori Ekleme</h1>
+<br />
+@using (Html.BeginForm("Update", "Authorization", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.AdminID)
+    <div class="mb-3">
+        @Html.Label("Admin Kullanıcı Adı")
+        @Html.TextBoxFor(x => x.AdminUsername, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.AdminUsername)
+    </div>
+    <div class="mb-3">
+        @Html.Label("Şifre")
+        @Html.TextBoxFor(x => x.AdminPassword, new { @class = "form-control", type = "password" })
+        @Html.ValidationMessageFor(x => x.AdminPassword)
+    </div>
+    <div class="mb-3">
+        @Html.Label("Rölü Seçiniz")
+        @Html.TextBoxFor(x => x.AdminRole, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.AdminRole)
+    </div>
+    <button class="btn btn-success">
+        Kaydet
+    </button>
+}
