@@ -1,0 +1,49 @@
+﻿@using EntityLayer.Concrete
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Index</h2>
+<div class="row">
+    <div class="col-sm-6 mb-3 mb-sm-0">
+        <div class="card">
+            <div class="card-body">
+                <h5>Toplam Kategori Sayısı</h5>
+                <p class="card-text">@ViewBag.category</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5>Yazılım Kategorisine Ait Başlık Sayısı</h5>
+                <p class="card-text">@ViewBag.headingcount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5>Yazılım Kategorisine Ait Başlık Sayısı</h5>
+                <p class="card-text">@ViewBag.acount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5>En Fazla Başlığa Sahip Kategori Adı</h5>
+                <p class="card-text">@ViewBag.maxcategory</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5>Durumu True Olan Kategori Sayısı ile False Olanların Farkı</h5>
+                <p class="card-text">@ViewBag.categoryDifference</p>
+            </div>
+        </div>
+    </div>
+</div>

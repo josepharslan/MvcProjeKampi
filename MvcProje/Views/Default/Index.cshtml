@@ -1,0 +1,37 @@
+﻿@using EntityLayer.Concrete
+@model List<Content>
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <section class="content">
+            <div class="container-fluid">
+
+                <div class="row">
+                    <div class="col-md-12 mt-3">
+                        <div class="timeline">
+                            @foreach (var item in Model)
+                            {
+                                <div>
+                                    <i class="fas"></i>
+                                    <div class="timeline-item">
+                                        <span class="form-label float-right mr-2 mt-2">Yazar: @item.Writer.WriterName @item.Writer.WriterSurname</span>
+                                        <h3 class="timeline-header"><a href="#">@item.Heading.HeadingName</a></h3>
+
+                                        <div class="timeline-body">
+                                            <span class="mailbox-read-time float-right">@(((DateTime)item.ContentDate).ToString("dd-MMM-yyyy"))</span>
+                                            @item.ContentValue
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+
