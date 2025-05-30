@@ -46,7 +46,7 @@ gibi yapılar örneklenmiştir.
 
 ![localhost_44361_Login_Index](https://github.com/user-attachments/assets/f7b354f3-d0d1-45c7-a523-5faf4817d195)
 
-![localhost_44361_Authorization_Index](https://github.com/user-attachments/assets/0ef66e31-729c-471d-9455-7fdbe8130fe2)
+![localhost_44361_Authorization_Index](https://github.com/user-attachments/assets/1f05c794-2f74-4bdf-b597-484b78421f20)
 
 ![localhost_44361_Writer_Index](https://github.com/user-attachments/assets/8b46b599-3aff-4184-bb6e-9bd9de97015f)
 
